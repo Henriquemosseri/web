@@ -90,7 +90,7 @@ ul, ol {
     margin: 10%;
 }
 
-.conteudo h1{
+.conteudo .titulo1{
     color: #fff;
     text-align: left;
     font-size: 4rem;
@@ -110,9 +110,24 @@ ul, ol {
     height: 45%;
 }
 
+
+
 .bg-image-2 {
     background-image: url(../imagens/img2.png);
 }
+.titulo2{
+    color: #fff;
+    text-align: left;
+    font-size: 3.82rem;;
+
+}
+
+.textos{
+    color: #fff;
+    text-align: left;
+    margin-left: 25rem;
+}
+
 
 .bg-dark {
     background-image: url(../imagens/bg-dark.png);
